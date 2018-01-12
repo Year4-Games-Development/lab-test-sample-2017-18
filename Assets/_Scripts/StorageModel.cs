@@ -1,4 +1,5 @@
-﻿public class StorageModel
+﻿
+public class StorageModel
 {
     private int units;
     public int Capacity { get; set; }
